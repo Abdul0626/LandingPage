@@ -1,0 +1,96 @@
+body{
+    background-image: url(img/sky-14.jpg);
+    overflow-y: scroll;    
+}
+
+#header{
+    position: fixed;
+    top: 0;
+}
+#header-img{
+   align-items: center;
+    width: 250px; 
+    height: 250px
+}
+
+#header-img2{
+    align-items: center;
+    width: 201px;
+}
+
+.nav-item{
+    font-family: 'Press Start 2P', cursive;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    background: white;
+    
+
+    
+}
+
+#KTD-kicks {
+    display: flex;
+    justify-content: center;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    }
+
+
+#nav-bar{
+
+}
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Press Start 2P', cursive;
+    color: black;
+
+}
+.text-center{
+    font-family: 'Press Start 2P', cursive;
+
+}
+#bio-graph{
+    display: flex;
+    justify-content: center;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    
+}
+#social{
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* text-align: center; */
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+#bullets{
+    display: flex;
+    list-style-position: inside;
+}
+#sign{
+    font-family: 'Press Start 2P', cursive;
+}
+
+#KTD-kicksc{
+    display: flex;
+    justify-content: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#youtube{
+    display: flex;
+    justify-content: center;
+}
+#jordan-1-web{
+    background-color: white;
+}
+
+.J1-pic{
+    width: 700px; 
+}
+
+#mainNav{
+    
+}
